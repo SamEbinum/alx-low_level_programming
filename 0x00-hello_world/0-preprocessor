@@ -1,4 +1,3 @@
-
 #!/bin/bash
-0x00-hello_world/.6-size.c.swp
+gcc -E $CFILE -o c
 
